@@ -1,4 +1,4 @@
-Of course! Here are 50 Excel functions along with brief explanations and examples:
+
 
 1. **SUM**: Adds up numbers.
    ```
