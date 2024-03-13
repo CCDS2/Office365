@@ -448,9 +448,6 @@
    ```
    This formula would return the last day of the month that is 2 months before the date in cell R2.
    
-   
-   Certainly! Let's explain the remaining Excel functions:
-
 76. **YEAR**: Returns the year of a date. Example:
    ```
    =YEAR(S2)
