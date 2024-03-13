@@ -498,7 +498,5 @@ Of course! Here are 4 more Excel functions:
    =STDEV.P(AP2:AP100)
    ```
 
-96. **MODE
 
-97. 
     
